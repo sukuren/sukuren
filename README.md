@@ -7,9 +7,7 @@
 ◆ Pastry Chef and a Florist!
 ◆ Vision: Cryo
 
-<img src="https://pbs.twimg.com/media/HC5_KHmWAAABvdo?format=jpg&name=900x900" width="300">
-
-<img src="https://pbs.twimg.com/media/HC5_KHhWwAAj2-f?format=jpg&name=900x900" width="300">
+<img src="https://pbs.twimg.com/media/HC5_KHmWAAABvdo?format=jpg&name=900x900" width="500"> <img src="https://pbs.twimg.com/media/HC5_KHhWwAAj2-f?format=jpg&name=900x900" width="500">
 
 
 

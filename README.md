@@ -10,7 +10,7 @@
 
 ◆ Vision: Cryo
 
-<img src="https://pbs.twimg.com/media/HC5_KHmWAAABvdo?format=jpg&name=900x900" width="500"> <img src="https://pbs.twimg.com/media/HC5_KHhWwAAj2-f?format=jpg&name=900x900" width="500">
+<img src="https://pbs.twimg.com/media/HC5_KHmWAAABvdo?format=jpg&name=900x900" width="400"> <img src="https://pbs.twimg.com/media/HC5_KHhWwAAj2-f?format=jpg&name=900x900" width="400">
 
 
 

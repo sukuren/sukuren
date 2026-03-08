@@ -1,4 +1,4 @@
-# MY Genshin oc <3
+# My Genshin oc <3
 
 > everything may be not perfect but im trying my best!! ^3^
 

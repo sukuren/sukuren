@@ -1,3 +1,3 @@
 <p align="center">
-*"You are real. You are special. Remember who you are."*
+> "You are real. You are special. Remember who you are."
 </p>
